@@ -1,0 +1,25 @@
+.form__inputField{
+    display: flex;
+   
+       gap: 3px;
+     
+   }
+   .form__input{
+       font-size: 1.2em;
+       padding: 5px;
+         box-shadow: 2px 2px 5px gray;
+         border: none;
+         border-radius: 5px;
+   }
+   
+   .form__button{
+       font-size: 1.2em;
+       border: none;
+       box-shadow: 2px 2px 5px gray;
+        border-radius: 5px;
+   }
+   
+   
+   .--error{
+      color: red;
+   }

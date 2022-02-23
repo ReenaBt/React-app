@@ -1,0 +1,6 @@
+.homePage{
+    display: grid;
+    place-items: center;
+    margin-top:20%;
+    gap: 20px;
+}
